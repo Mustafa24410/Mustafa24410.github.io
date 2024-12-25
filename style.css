@@ -1,6 +1,10 @@
+@font-face {
+    font-family: "yuruka";
+    src: url("fot-yuruka-std.ttf") format("ttf");
+}
 .boba-drops
 {
-    font-size: 450%;
-    font-family: 'comic sans';
+    font-size: 300%;
+    font-family: 'yuruka';
     color: rgb(226, 124, 124);
 }
