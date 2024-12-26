@@ -5,13 +5,13 @@
 }
 .winter
 {
+    position: relative;
+    text-align: center;
+}
+.winter-text
+{
     text-align: center;
     font-size: 300%;
     font-family: yuruka;
     color: rgb(252, 86, 86);
-    background-image: url(images.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin: 0%;
 }
