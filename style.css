@@ -10,11 +10,9 @@
     font-family: yuruka;
     color: rgb(226, 124, 124);
 }
-body
+.background
 {
-    background-image: url(images.jpeg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     opacity: 75%;
+    width: 100%;
+    height: 100%;
 }
