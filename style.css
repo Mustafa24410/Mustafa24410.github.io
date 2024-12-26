@@ -1,12 +1,19 @@
-@font-face {
+@font-face
+{
     font-family: yuruka;
     src: url(fot-yuruka-std.ttf)
 }
-
 .winter
 {
     text-align: center;
     font-size: 300%;
     font-family: yuruka;
     color: rgb(226, 124, 124);
+}
+body
+{
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
