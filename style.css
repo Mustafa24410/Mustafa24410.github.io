@@ -3,6 +3,10 @@
     font-family: yuruka;
     src: url(fot-yuruka-std.ttf)
 }
+img
+{
+    margin: 0%;
+}
 .winter
 {
     position: relative;
@@ -10,7 +14,8 @@
 }
 .winter-text
 {
-    text-align: center;
+    top: 50%;
+    left: 50%;
     font-size: 300%;
     font-family: yuruka;
     color: rgb(252, 86, 86);
