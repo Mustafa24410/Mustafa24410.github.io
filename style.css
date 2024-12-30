@@ -3,16 +3,16 @@
     font-family: yuruka;
     src: url(fot-yuruka-std.ttf)
 }
-img
-{
-    margin: 0%;
-    opacity: 30%;
-    background-color: rgb(255, 255, 255);
-}
 .winter
 {
     position: relative;
     text-align: center;
+}
+.snow-background
+{
+    margin: 0%;
+    opacity: 50%;
+    background-repeat: repeat-y;
 }
 .winter-text
 {
