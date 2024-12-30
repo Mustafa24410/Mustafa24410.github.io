@@ -7,6 +7,7 @@ img
 {
     margin: 0%;
     opacity: 30%;
+    background-color: rgb(255, 255, 255);
 }
 .winter
 {
@@ -28,4 +29,5 @@ img
     font-size: 200%;
     font-family: yuruka;
     color: rgb(252, 86, 86);
+    position: center;
 }
